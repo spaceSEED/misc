@@ -186,14 +186,12 @@ public class Encode
     
     //Heap Code after here.
     public boolean add(Object obj) {
-        // you must write this add object at end and call percolateUp
         tree.add(obj);
         percolateUp();
         return true;
     }
 
     public Object remove() {
-        // you must write this.  call percolate down
         if(!isEmpty()){
             if(tree.size()>1){
                 Object a = tree.get(0);
@@ -222,7 +220,6 @@ public class Encode
     }
 
     public boolean isEmpty() {
-        // you must write this
         if(tree==null||tree.size()==0){
             return true;
         }else{
@@ -231,7 +228,6 @@ public class Encode
     }
 
     private void percolateUp() {
-        // you must write this
         int a = tree.size()-1;
         Object b;
         Comparable temp=(Comparable)tree.get(parent(a));
@@ -247,7 +243,6 @@ public class Encode
     }
 
     private void percolateDown() {
-        // you must write this
         int a =0;
         Comparable b= (Comparable)tree.get(a);
         Comparable d;
