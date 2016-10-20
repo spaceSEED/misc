@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=initValue\ initkey\ initLeft\ initRight
+comment0.target=TreeNode(java.lang.Object,\ java.lang.Object,\ TreeNode,\ TreeNode)
+comment1.params=initValue\ initkey
+comment1.target=TreeNode(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment4.params=
+comment4.target=TreeNode\ getLeft()
+comment5.params=
+comment5.target=TreeNode\ getRight()
+comment6.params=theNewValue
+comment6.target=void\ setValue(java.lang.Object)
+comment7.params=theNewLeft
+comment7.target=void\ setLeft(TreeNode)
+comment8.params=theNewRight
+comment8.target=void\ setRight(TreeNode)
+comment9.params=a
+comment9.target=int\ compareTo(java.lang.Object)
+numComments=10
