@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Runs\ the\ game\r\n
+comment1.params=
+comment1.target=void\ build()
+comment1.text=\r\n\ Builds\ a\ tree\ from\ reading\ in\ a\ preorder\ file\ (QA_English.txt)\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ The\ method\ for\ a\ single\ playthrough\ \ of\ the\ game\r\n\ \ -player\ can\ add\ a\ question\ and\ answer\ to\ the\ tree\ if\ they\ are\ unsatisfied\ with\ their\ results\r\n
+comment3.params=
+comment3.target=void\ preOrderOut()
+comment3.text=\r\n\ Writes\ out\ the\ new\ tree\ to\ the\ file\ (QA_English.txt)\ in\ preorder\r\n
+comment4.params=root
+comment4.target=java.lang.String\ preOrderOutHelper(TreeNode)
+comment5.params=
+comment5.target=java.lang.String\ preOrder()
+comment6.params=root
+comment6.target=java.lang.String\ preOrderRecursiveHelper(TreeNode)
+numComments=7

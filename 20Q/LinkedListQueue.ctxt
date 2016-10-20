@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=class\ LinkedListQueue
+comment1.params=
+comment1.target=Object\ peekFront()
+comment2.params=obj
+comment2.target=void\ enqueue(Object)
+comment3.target=items
+comment4.params=
+comment4.target=LinkedListQueue()
+comment5.params=
+comment5.target=Object\ dequeue()
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7
