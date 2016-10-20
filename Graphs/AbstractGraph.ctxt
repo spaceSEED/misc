@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AbstractGraph()
+comment0.text=\ \r\n\ Constructs\ a\ new\ empty\ undirected\ graph.\r\n
+comment1.params=
+comment1.target=java.util.Collection\ edges()
+comment1.text=\ \r\n\ Returns\ this\ graph's\ collection\ of\ edges.\r\n\ The\ collection\ should\ be\ considered\ read-only.\r\n\ If\ this\ graph\ contains\ no\ edges,\ returns\ an\ empty\ collection.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\ \r\n\ Returns\ a\ string\ representation\ of\ this\ graph\ and\ its\ vertices.\ \r\n
+comment3.params=
+comment3.target=java.util.Collection\ vertices()
+comment3.text=\ \r\n\ Returns\ a\ collection\ of\ the\ vertices\ in\ this\ graph.\r\n\ The\ collection\ should\ be\ considered\ read-only.\r\n\ If\ this\ graph\ contains\ no\ vertices,\ returns\ an\ empty\ collection.\r\n
+comment4.params=arg
+comment4.target=void\ checkForNull(java.lang.Object)
+comment4.text=\ \r\n\ Tests\ the\ given\ arguments\ for\ null.\r\n\ @param\ args\ The\ arguments\ to\ examine.\r\n\ @throws\ NullPointerException\ If\ any\ argument\ is\ null.\r\n
+comment5.params=v
+comment5.target=void\ checkVertex(java.lang.Object)
+comment5.text=\ \r\n\ Tests\ the\ given\ vertices\ for\ null\ and\ for\ membership\ in\ the\ graph.\r\n\ @param\ v\ The\ vertex\ to\ examine.\r\n\ @throws\ IllegalArgumentException\ If\ any\ vertex\ is\ not\ part\ of\ this\ graph.\r\n\ @throws\ NullPointerException\ If\ any\ vertex\ is\ null.\r\n
+comment6.params=v1\ v2
+comment6.target=void\ checkVertices(java.lang.Object,\ java.lang.Object)
+comment6.text=\ \r\n\ Tests\ the\ given\ vertices\ for\ null\ and\ for\ membership\ in\ the\ graph.\r\n\ @param\ v1\ First\ vertex\ to\ examine.\r\n\ @param\ v2\ Second\ vertex\ to\ examine.\r\n\ @throws\ IllegalArgumentException\ If\ any\ vertex\ is\ not\ part\ of\ this\ graph.\r\n\ @throws\ NullPointerException\ If\ any\ vertex\ is\ null.\r\n
+comment7.params=
+comment7.target=void\ clearVertexInfo()
+comment7.text=\r\n\ Resets\ all\ distance\ /\ previous\ /\ visited\ markings\ from\ vertex\ info\r\n\ objects\ in\ this\ graph.\r\n
+numComments=8
