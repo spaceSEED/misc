@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment0.text=Tell\ whether\ the\ queue\ has\ no\ more\ elements.
+comment1.params=
+comment1.target=int\ peekFront()
+comment1.text=\ Return\ the\ value\ that\ dequeue\ would\ give\ without\ modifying\r\nthe\ queue.\ Throw\ an\ Exception\ if\ the\ queue\ is\ empty.
+comment2.params=
+comment2.target=int\ dequeue()
+comment2.text=\ Remove\ and\ return\ the\ value\ that\ has\ been\ in\ the\ queue\ the\r\nmost\ time.\ Throw\ an\ Exception\ if\ the\ queue\ is\ empty.
+comment3.params=ob
+comment3.target=void\ enqueue(int)
+comment3.text=Add\ the\ given\ value\ to\ the\ queue.
+numComments=4
