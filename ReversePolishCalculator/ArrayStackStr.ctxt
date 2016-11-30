@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayStackStr()
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=java.lang.String\ peekTop()
+comment2.text=\ Return\ the\ value\ that\ pop\ would\ give,\ without\ modifying\r\n\ the\ stack.\ Throw\ an\ Exception\ if\ the\ stack\ is\ empty.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ pop()
+comment3.text=\ Remove\ and\ return\ the\ value\ that\ has\ been\ in\ the\ stack\ the\r\n\ least\ time.\ Throw\ an\ Exception\ if\ the\ stack\ is\ empty.\ \r\n
+comment4.params=ob
+comment4.target=void\ push(java.lang.String)
+comment4.text=Add\ the\ given\ value\ to\ the\ stack.
+numComments=5

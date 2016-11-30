@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculator()
+comment0.text=\r\nUses\ JOptionPane\ to\ ask\ for\ inputs,\ display\ outputs,\ and\ let\ the\ user\ "try\ again"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ input()
+comment2.text=\r\n\ Takes\ inputs,\ puts\ them\ into\ the\ stack,\ and\ identifies\ if\ they\ are\ a\ number\ or\ operation\r\n
+comment3.params=a
+comment3.target=java.lang.String\ calc(java.lang.String)
+comment3.text=\r\n\ calculates\ the\ top\ two\ ints\ in\ the\ stack\ based\ upon\ the\ given\ operation\r\n
+comment4.params=a
+comment4.target=boolean\ signOrInt(java.lang.String)
+comment4.text=\r\n\ checks\ if\ operation\ sign\r\n
+comment5.params=a
+comment5.target=int\ toInt(java.lang.String)
+comment5.text=\r\n\ Integer.parseInt();\ simplified\r\n
+comment6.params=a
+comment6.target=boolean\ moreTwo(ArrayStackStr)
+comment6.text=\r\n\ makes\ sure\ there\ are\ at\ least\ 2\ ints\ in\ the\ stack\r\n
+numComments=7

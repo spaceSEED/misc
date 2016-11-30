@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment0.text=\ Tell\ whether\ the\ stack\ has\ no\ more\ elements.\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ peekTop()
+comment1.text=\ Return\ the\ value\ that\ pop\ would\ give,\ without\ modifying\r\n\ the\ stack.\ Throw\ an\ Exception\ if\ the\ stack\ is\ empty.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ pop()
+comment2.text=\ Remove\ and\ return\ the\ value\ that\ has\ been\ in\ the\ stack\ the\r\n\ least\ time.\ Throw\ an\ Exception\ if\ the\ stack\ is\ empty.\ \r\n
+comment3.params=ob
+comment3.target=void\ push(java.lang.String)
+comment3.text=Add\ the\ given\ value\ to\ the\ stack.
+numComments=4
